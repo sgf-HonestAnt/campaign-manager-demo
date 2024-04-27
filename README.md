@@ -1,5 +1,7 @@
 This is a demo that showcases using CopilotKit to build a PowerPoint like web app.
 
+USE DEMO CAN BE VIEWED HERE: https://www.youtube.com/watch?app=desktop&v=gCJpH6Tnj5g&embeds_referring_euri=https%3A%2F%2Fdev.to%2F&source_ve_path=MjM4NTE&feature=emb_title
+
 ## Getting Started
 
 ### 1. install the needed package:
